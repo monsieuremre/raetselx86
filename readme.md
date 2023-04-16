@@ -52,8 +52,8 @@ After this, follow the user prompts.
 
 ## Contributing
 
-The fact that anybody can contribute is what makes Free and Open Source Software to learn and create.
-If you have any suggestion regarding the project, do not hesitate fork the repo and create a pull request.
+The fact that anybody can contribute is what makes Free and Open Source Software the best tool to learn and create.
+If you have any suggestions regarding the project, do not hesitate fork the repo and create a pull request.
 
 ## License
 
