@@ -1,6 +1,6 @@
 ## Preview
 
-![preview]()
+![preview](https://raw.githubusercontent.com/monsieuremre/raetselx86/main/media/preview.gif)
 
 ## About The Project
 
@@ -63,4 +63,4 @@ See `LICENSE` for more details.
 
 ## Contact
 
-Project Link: []()
+Project Link: [https://github.com/monsieuremre/raetselx86](https://github.com/monsieuremre/raetselx86)
