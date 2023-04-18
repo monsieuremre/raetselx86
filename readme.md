@@ -1,3 +1,5 @@
+# RAETSELx86
+
 ## Preview
 
 ![preview](https://raw.githubusercontent.com/monsieuremre/raetselx86/main/media/preview.gif)
@@ -61,6 +63,6 @@ RAETSELx86 is free software: you can redistribute it and/or modify it under the 
 
 See [LICENSE](LICENSE) for more details.
 
-## Contact
+## Repository
 
 Project Link: [https://github.com/monsieuremre/raetselx86](https://github.com/monsieuremre/raetselx86)
