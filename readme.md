@@ -63,6 +63,8 @@ RAETSELx86 is free software: you can redistribute it and/or modify it under the 
 
 See [LICENSE](LICENSE) for more details.
 
-## Repository
+## Contact
+
+If you need to contact me regarding the project for any reason, please open an issue or create a pull request.
 
 Project Link: [https://github.com/monsieuremre/raetselx86](https://github.com/monsieuremre/raetselx86)
